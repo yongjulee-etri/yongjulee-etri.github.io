@@ -28,21 +28,22 @@ visual perception, crossmodal/multimodal learning.
 
 # 🎖 Projects
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
-    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)** <br>
-   [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
+    ![image description](images//clara-motivation.png)
 
 -  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
-    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)** <br>
-   [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
+    ![image description](images//crossmodal-motivation.png)
+
    
 -  ## Development of Model Optimization and Lightweight based on Edge AI Technology <br>
-    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** <br>
-   [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
-   
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
+   ![image description](images//edgeai-motivation.png)
+
 -  ## Development of Big Data Edge Analytics SW Technology for Load Balancing and Activet Timely Response <br>
-    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** <br>
-   [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
-   
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
+      ![image description](images//edge-analytics-motivation.png)
+
 # 📝 Publications 
 
 -  ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
