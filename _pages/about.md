@@ -32,7 +32,7 @@ visual perception, crossmodal/multimodal learning.
     ![image description](images//clara-motivation.png)
 
 -  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
-    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
     ![image description](images//crossmodal-motivation.png)
 
    
