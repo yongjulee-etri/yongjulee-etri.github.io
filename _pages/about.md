@@ -17,42 +17,93 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Dr. Yong-Ju Lee is the head of the Visual Intelligence Research Department at the Electronics and Telecommunications
+Research Institute (ETRI) in South Korea and adjunct professor in Korea National University of Science and Technology.
+He received a Ph.D. in computer engineering from the Chungnam National University(CNU), South Korea. He was a
+visiting scholar at the University of Virginia Tech and planning committee member of the ministry of science and ICT in
+Korea. With a distinguished career in visual intelligence research, Dr. Lee has made significant contributions to the field
+and continues to lead innovative projects that advance multimedia technologies, such as generative visual intelligence and
+visual AI agent collaboration. His research interests include deep learning, edge-based model compression, human-level
+visual perception, crossmodal/multimodal learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🎖 Projects
+-  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)** <br>
+   [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+-  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)** <br>
+   [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
+   
+-  ## Development of Model Optimization and Lightweight based on Edge AI Technology <br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** <br>
+   [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
+   
+-  ## Development of Big Data Edge Analytics SW Technology for Load Balancing and Activet Timely Response <br>
+    **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** <br>
+   [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
+   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-  ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
+    Seongwon Lee, **Yong-Ju Lee** <br>
+   <span style="color:darkred">**ECCV**</span> 2024 <br>
+   [[paper]](https://green-fomo.github.io/ECCV2024/program.html)<br>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-  ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
+    Youngwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
+   <span style="color:darkred">**ECCV**</span> 2024 <br>
+   [[paper]](https://green-fomo.github.io/ECCV2024/program.html)<br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-  ## KOALA: Fast and Memory-Efficient Latent Diffusion Models via Self-Attention Distillation <br>
+    Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang <br>
+   <span style="color:darkred">**CVPR**</span> 2024 <br>
+    [[Project page]](https://huggingface.co/spaces/etri-vilab/KOALA)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  ## Multimodal AudioVisual Speech Recognition Architecture Using a Three-Feature Multi Fusion Method for Noise-Robust Systems <br>
+    Sanghun Jeon, Jieun Lee, Dohyeon Yeo, **Yong-Ju Lee**, SeungJun Kim <br>
+   <span style="color:darkred">**ETRI Journal**</span> 2024 <br>
+   [[paper]](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0266)<br>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  ## Block-wiseWord Embedding Compression Revisited: BetterWeighting and Structuring <br>
+    Jong-Ryul Lee, **Yong-Ju Lee**, Yong-Hyuk Moon<br>
+   <span style="color:darkred">**EMNLP**</span> 2021<br>
+   [[paper]](https://aclanthology.org/2021.findings-emnlp.372/)<br>
 
+-  ## Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks <br>
+    Junyong Park, Yong-Hyuk Moon, **Yong-Ju Lee** <br>
+   <span style="color:darkred">**ECCV**</span> 2020<br>
+   [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_6)<br>
+
+-  ## Long Short-Term Memory Recurrent Neural Network for Urban Traffic Prediction: A Case Study of Seoul <br>
+   **Yong-Ju Lee**, OkGee Min <br>
+   <span style="color:darkred">**ITSC**</span> 2018<br>
+   [[paper]](https://ieeexplore.ieee.org/document/8569620)<br>
+   
+-  ## Adaptive delivery and handoff management framework for multimedia session mobility <br>
+   **Yong-Ju Lee** <br>
+   <span style="color:darkred">**Information Sciences**</span> 2014<br>
+   [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025514001753)<br>
+   
+-  ## Video block device for user-friendly delivery in IaaS clouds <br>
+   **Yong-Ju Lee** <br>
+   <span style="color:darkred">**The Journal of Supercomputing**</span> 2014<br>
+   [[paper]](https://link.springer.com/article/10.1007/s11227-013-1032-6)<br>
+   
+-  ## BitNBD: BitTorrent-based network block device for provisioning virtual machines in IaaS clouds <br>
+   **Yong-Ju Lee**,Hag-Young Kim, Cheol-Hoon Lee <br>
+   <span style="color:darkred">**IEICE transactions on information and systems**</span> 2011<br>
+   [[paper]](https://search.ieice.org/bin/summary.php?id=e94-d_1_60)<br>
+   
+-  ## Cell approximation method in quorum systems for minimizing access time <br>
+   **Yong-Ju Lee**,Hag-Young Kim, Cheol-Hoon Lee <br>
+   <span style="color:darkred">**Cluster Computing**</span> 2009<br>
+   [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
+   
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.06*, Genertive Visual Intelligence in ETRI AI Conference 2024  \|[\[video\]](https://youtu.be/hQmy7vJVNEE?t=13858)
+![image description](images//crossmodal-broadcasting.png)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
