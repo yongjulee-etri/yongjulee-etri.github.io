@@ -29,20 +29,20 @@ visual perception, crossmodal/multimodal learning.
 # 🎖 Projects
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
-    ![image description](images//clara-project.png){ width=50% }
+    ![image description](images//clara-motivation.png){ width=50% }
 
 -  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
-    ![image description](images//crossmodal-project.png){ width=50% }
+    ![image description](images//crossmodal-motivation.png){ width=50% }
 
    
 -  ## Development of Model Optimization and Lightweight based on Edge AI Technology <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
-   ![image description](images//edge2-project.png){ width=50% }
+   ![image description](images//edgeai-motivation.png){ width=50% }
 
 -  ## Development of Big Data Edge Analytics SW Technology for Load Balancing and Activet Timely Response <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
-      ![image description](images//edge1-project.png){ width=50% }
+      ![image description](images//edge-analytics-motivation.png){ width=50% }
 
 # 📝 Publications 
 
