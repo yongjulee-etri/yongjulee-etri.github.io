@@ -109,4 +109,7 @@ visual perception, crossmodal/multimodal learning.
 - *2024.06*, Genertive Visual Intelligence in ETRI AI Conference 2024  \|[\[video\]](https://youtu.be/hQmy7vJVNEE?t=13858)
 ![image description](images//crossmodal-broadcasting.png)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oZFSALPGmwk/0.jpg)](https://www.youtube.com/watch?v=oZFSALPGmwk)
+
+
 
