@@ -26,6 +26,9 @@ and continues to lead innovative projects that advance multimedia technologies, 
 visual AI agent collaboration. His research interests include deep learning, edge-based model compression, human-level
 visual perception, crossmodal/multimodal learning.
 
+# 🎉 Lab
+-  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
+  
 # 🎖 Projects
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
