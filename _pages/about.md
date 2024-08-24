@@ -23,8 +23,8 @@ He received a Ph.D. in computer engineering from the Chungnam National Universit
 visiting scholar at the University of Virginia Tech and planning committee member of the ministry of science and ICT in
 Korea. With a distinguished career in visual intelligence research, Dr. Lee has made significant contributions to the field
 and continues to lead innovative projects that advance multimedia technologies, such as generative visual intelligence and
-visual AI agent collaboration. His research interests include deep learning, edge-based model compression, human-level
-visual perception, crossmodal/multimodal learning.
+visual AI agent collaboration. His research interests include Artificial General Intelligence(AGI), Generative AI, Edge-based model compression, Human-level
+visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Lab
 -  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
