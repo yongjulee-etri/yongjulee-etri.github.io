@@ -70,7 +70,7 @@ visual perception, Crossmodal/Multimodal learning.
    <span style="color:darkred">**ETRI Journal**</span> 2024 <br>
    [[paper]](https://onlinelibrary.wiley.com/doi/10.4218/etrij.2023-0266)<br>
 
--  ## Block-wiseWord Embedding Compression Revisited: BetterWeighting and Structuring <br>
+-  ## Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring <br>
     Jong-Ryul Lee, **Yong-Ju Lee**, Yong-Hyuk Moon<br>
    <span style="color:darkred">**EMNLP**</span> 2021<br>
    [[paper]](https://aclanthology.org/2021.findings-emnlp.372/)<br>
