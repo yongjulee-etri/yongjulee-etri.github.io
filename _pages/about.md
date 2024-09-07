@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Yong-Ju Lee is the head of the Visual Intelligence Research Department at the Electronics and Telecommunications
-Research Institute (ETRI) in South Korea and adjunct professor in Korea National University of Science and Technology.
+**Dr. Yong-Ju Lee is the head of the Visual Intelligence Research Department at the Electronics and Telecommunications
+Research Institute (ETRI)** in South Korea and adjunct professor in Korea National University of Science and Technology.
 He received a Ph.D. in computer engineering from the Chungnam National University(CNU), South Korea. He was a
 visiting scholar at the University of Virginia Tech and planning committee member of the ministry of science and ICT in
 Korea. With a distinguished career in visual intelligence research, Dr. Lee has made significant contributions to the field
