@@ -28,23 +28,23 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Lab
 -  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
- **(2024)** : We have 16 papers this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
- **(2024/09)**: We have Six papers accepted to ECCV 2024 <br>
- **(2024/08)**: We have One papers accepted to ICML 2024 <br>
- **(2024/07)**: We have Two papers accepted to AVSS 2024 <br>
- **(2024/06)**: We have Five papers accepted to CVPR 2024 <br>
- **(2024/02)**: We have Two papers accepted to ETRI J. <br>
- **(2023)** : We have 9 papers this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.). <br>
- **(2023/12)**: We have One papers accepted to NeurIPS 2023 <br>
- **(2023/10)**: We have One papers accepted to ICCV 2023, One paper accepted to ETRI J. <br>
- **(2023/06)**: We have Four papers accepted to CVPR 2023 <br>
- **(2023/05)**: We have One papers accepted to ICLR 2023 <br>
- **(2023/02)**: We have One papers accepted to AAAI 2023 <br>
- **(2022)** : We have 6 papers this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC). <br>
- **(2022/11)**: We have One papers accepted to BMVC 2022 <br>
- **(2022/10)**: We have Two papers accepted to ECCV 2022 <br>
- **(2022/06)**: We have Two papers accepted to CVPR 2022 <br>
- **(2022/04)**: We have One papers accepted to ETRI J. <br>
+ **(2024)** : We have **16 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
+ **(2024/09)**: We have Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
+ **(2024/08)**: We have One papers accepted to ICML 2024 (Youngwan Lee) <br>
+ **(2024/07)**: We have Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
+ **(2024/06)**: We have Five papers accepted to CVPR 2024 (Kwanyong Park, Youngwan Lee, Bae Kangmin, Jo Youngjoo) <br>
+ **(2024/02)**: We have Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br><br>
+ **(2023)** : We have **9 papers** this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.). <br>
+ **(2023/12)**: We have One papers accepted to NeurIPS 2023 (Youngwan Lee) <br>
+ **(2023/10)**: We have One papers accepted to ICCV 2023 (Park Minho), One paper accepted to ETRI J. (Yun Kimin)<br>
+ **(2023/06)**: We have Four papers accepted to CVPR 2023 (Kim Jonghee, Ham Jaeseok, Seol Mooah, Bae Kangmin) <br>
+ **(2023/05)**: We have One papers accepted to ICLR 2023 (Youngwan Lee)<br>
+ **(2023/02)**: We have One papers accepted to AAAI 2023 (Jongryul Lee) <br><br>
+ **(2022)** : We have **6 papers** this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC). <br>
+ **(2022/11)**: We have One papers accepted to BMVC 2022  (Jongryul Lee) <br>
+ **(2022/10)**: We have Two papers accepted to ECCV 2022 (Ham Jaeseok, Youngwan Lee)<br>
+ **(2022/06)**: We have Two papers accepted to CVPR 2022 (Youngwan Lee, Moon Jinyoung)<br>
+ **(2022/04)**: We have One papers accepted to ETRI J. (Chunhee Lee)<br>
 
   
 # 🎖 Projects
