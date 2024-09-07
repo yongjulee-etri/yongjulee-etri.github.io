@@ -28,7 +28,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Lab
 -  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
- **(2024)** : We have 16 papers this year(2 ETRI J. 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
+ **(2024)** : We have 16 papers this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
  **(2024/09)**: We have Six papers accepted to ECCV 2024 <br>
  **(2024/08)**: We have One papers accepted to ICML 2024 <br>
  **(2024/07)**: We have Two papers accepted to AVSS 2024 <br>
