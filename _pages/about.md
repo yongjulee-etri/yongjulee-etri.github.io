@@ -128,7 +128,7 @@ visual perception, Crossmodal/Multimodal learning.
    
 # 💬 Invited Talks and Promotions
 - **2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI
-<iframe width="448" height="252" src="https://www.youtube.com/embed/hQmy4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
 
 - **2024.06**, Genertive Visual Intelligence in ETRI AI Conference 2024
