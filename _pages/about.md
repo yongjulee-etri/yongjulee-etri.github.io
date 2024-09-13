@@ -133,5 +133,7 @@ visual perception, Crossmodal/Multimodal learning.
 - *2024.04*, ETRI WebZine 2024/04  \|[\[video\]](https://youtu.be/VgLvF5pBqbw?t=9)
 ![image description](images//etri-webzine2.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQmy7vJVNEE?t=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
