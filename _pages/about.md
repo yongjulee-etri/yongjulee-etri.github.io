@@ -127,13 +127,14 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
    
 # 💬 Invited Talks
-- *2024.06*, Genertive Visual Intelligence in ETRI AI Conference 2024  \|[\[video\]](https://youtu.be/hQmy7vJVNEE?t=13858)
-![image description](images//crossmodal-broadcasting.png)
+- *2024.06*, Genertive Visual Intelligence in ETRI AI Conference 2024
+<iframe width="448" height="252" src="https://www.youtube.com/embed/hQmy7vJVNEE?t=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- *2024.04*, ETRI WebZine 2024/04  \|[\[video\]](https://youtu.be/VgLvF5pBqbw?t=9)
-![image description](images//etri-webzine2.png)
+- *2024.04*, ETRI WebZine 2024/04
+  <iframe width="448" height="252" src="https://www.youtube.com/embed/VgLvF5pBqbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQmy7vJVNEE?t=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- *2024.01*, ETRI Generative AI promotion 2024/01
+  <iframe width="448" height="252" src="https://www.youtube.com/embed/oZFSALPGmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
