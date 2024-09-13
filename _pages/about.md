@@ -147,4 +147,9 @@ visual perception, Crossmodal/Multimodal learning.
 <iframe width="448" height="252" src="https://www.youtube.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
   <br>
 
+# 💬 Invited Talks and Promotions
+- **2024**, KOALA in ETRI
+<iframe src="https://etri-vilab.io:7861/" style="width:100%;height:3500px" scrolling="no"></iframe>
+
+
 
