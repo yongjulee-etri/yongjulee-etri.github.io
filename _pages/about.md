@@ -146,7 +146,10 @@ visual perception, Crossmodal/Multimodal learning.
 - **2023** Agent Collaboration Project Overview 
 <iframe width="448" height="252" src="https://www.youtube.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
+
+- **Contact** Yong-Ju Lee (yongju@etri.re.kr)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fetri-yongjulee-etri.github.io&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" alt="Hits" /></a></p>
+
 
 
 
