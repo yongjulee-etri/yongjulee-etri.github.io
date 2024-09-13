@@ -29,22 +29,22 @@ visual perception, Crossmodal/Multimodal learning.
 # 🎉 Lab
 -  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
  **(2024)** : We have **16 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
- **(2024/08)**: One papers accepted to ICML 2024 (Youngwan Lee) <br>
- **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
- **(2024/06)**: Five papers accepted to CVPR 2024 (Kwanyong Park, Youngwan Lee, Bae Kangmin, Jo Youngjoo) <br>
- **(2024/02)**: Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br><br>
+ - **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
+ - **(2024/08)**: One papers accepted to ICML 2024 (Youngwan Lee) <br>
+ - **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
+ - **(2024/06)**: Five papers accepted to CVPR 2024 (Kwanyong Park, Youngwan Lee, Bae Kangmin, Jo Youngjoo) <br>
+ - **(2024/02)**: Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br><br>
  **(2023)** : We have **9 papers** this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.). <br>
- **(2023/12)**: One papers accepted to NeurIPS 2023 (Youngwan Lee) <br>
- **(2023/10)**: One papers accepted to ICCV 2023 (Park Minho), One paper accepted to ETRI J. (Yun Kimin)<br>
- **(2023/06)**: Four papers accepted to CVPR 2023 (Kim Jonghee, Ham Jaeseok, Seol Mooah, Bae Kangmin) <br>
- **(2023/05)**: One papers accepted to ICLR 2023 (Youngwan Lee)<br>
- **(2023/02)**: One papers accepted to AAAI 2023 (Jongryul Lee) <br><br>
+ - **(2023/12)**: One papers accepted to NeurIPS 2023 (Youngwan Lee) <br>
+ -  **(2023/10)**: One papers accepted to ICCV 2023 (Park Minho), One paper accepted to ETRI J. (Yun Kimin)<br>
+ -  **(2023/06)**: Four papers accepted to CVPR 2023 (Kim Jonghee, Ham Jaeseok, Seol Mooah, Bae Kangmin) <br>
+ -  **(2023/05)**: One papers accepted to ICLR 2023 (Youngwan Lee)<br>
+ - **(2023/02)**: One papers accepted to AAAI 2023 (Jongryul Lee) <br><br>
  **(2022)** : We have **6 papers** this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC). <br>
- **(2022/11)**: One papers accepted to BMVC 2022  (Jongryul Lee) <br>
- **(2022/10)**: Two papers accepted to ECCV 2022 (Ham Jaeseok, Youngwan Lee)<br>
- **(2022/06)**: Two papers accepted to CVPR 2022 (Youngwan Lee, Moon Jinyoung)<br>
- **(2022/04)**: One papers accepted to ETRI J. (Chunhee Lee)<br>
+ -  **(2022/11)**: One papers accepted to BMVC 2022  (Jongryul Lee) <br>
+ -  **(2022/10)**: Two papers accepted to ECCV 2022 (Ham Jaeseok, Youngwan Lee)<br>
+ -  **(2022/06)**: Two papers accepted to CVPR 2022 (Youngwan Lee, Moon Jinyoung)<br>
+ -  **(2022/04)**: One papers accepted to ETRI J. (Chunhee Lee)<br>
 
   
 # 🎖 Projects
@@ -68,19 +68,19 @@ visual perception, Crossmodal/Multimodal learning.
 
 -  ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
     Seongwon Lee, **Yong-Ju Lee** <br>
-   <span style="color:darkred">**ECCV**</span> 2024 <br>
+   European Conference on Computer Vision Workshop(<span style="color:darkred">**ECCV**</span>) 2024 <br>
    [[paper]](https://green-fomo.github.io/ECCV2024/program.html)<br>
 
 
 -  ## DiT-Pruner: Pruning Diffusion Transformer Models for Text-to-Image Synthesis Using Human Preference Scores <br>
     Youngwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
-   <span style="color:darkred">**ECCV**</span> 2024 <br>
+   European Conference on Computer Vision Workshop(<span style="color:darkred">**ECCV**</span>) 2024 <br>
    [[paper]](https://green-fomo.github.io/ECCV2024/program.html)<br>
 
 
 -  ## KOALA: Fast and Memory-Efficient Latent Diffusion Models via Self-Attention Distillation <br>
     Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang <br>
-   <span style="color:darkred">**CVPR**</span> 2024 <br>
+   IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop(<span style="color:darkred">**CVPR**</span>) 2024 <br>
     [[Project page]](https://huggingface.co/spaces/etri-vilab/KOALA)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
 -  ## Multimodal AudioVisual Speech Recognition Architecture Using a Three-Feature Multi Fusion Method for Noise-Robust Systems <br>
@@ -90,17 +90,17 @@ visual perception, Crossmodal/Multimodal learning.
 
 -  ## Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring <br>
     Jong-Ryul Lee, **Yong-Ju Lee**, Yong-Hyuk Moon<br>
-   <span style="color:darkred">**EMNLP**</span> 2021<br>
+   Empirical Methods in Natural Language Processing(<span style="color:darkred">**EMNLP**</span>) 2021<br>
    [[paper]](https://aclanthology.org/2021.findings-emnlp.372/)<br>
 
 -  ## Efficient Approximation of Filters for High-Accuracy Binary Convolutional Neural Networks <br>
     Junyong Park, Yong-Hyuk Moon, **Yong-Ju Lee** <br>
-   <span style="color:darkred">**ECCV**</span> 2020<br>
+    European Conference on Computer Vision Workshop(<span style="color:darkred">**ECCV**</span>) 2020<br>
    [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_6)<br>
 
 -  ## Long Short-Term Memory Recurrent Neural Network for Urban Traffic Prediction: A Case Study of Seoul <br>
    **Yong-Ju Lee**, OkGee Min <br>
-   <span style="color:darkred">**ITSC**</span> 2018<br>
+   IEEE International Conference on Intelligent Transportation Systems(<span style="color:darkred">**ITSC**</span>) 2018<br>
    [[paper]](https://ieeexplore.ieee.org/document/8569620)<br>
    
 -  ## Adaptive delivery and handoff management framework for multimedia session mobility <br>
