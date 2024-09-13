@@ -26,8 +26,7 @@ and continues to lead innovative projects that advance multimedia technologies, 
 visual AI agent collaboration. His research interests include Artificial General Intelligence(AGI), Generative AI, Edge-based model compression, Human-level
 visual perception, Crossmodal/Multimodal learning.
 
-# 🎉 Lab
--  ## Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
+# 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
  - **(2024)** : We have **16 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
  -- **(2024/08)**: One papers accepted to ICML 2024 (Youngwan Lee) <br>
@@ -51,18 +50,22 @@ visual perception, Crossmodal/Multimodal learning.
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
     ![image description](images//clara.png)
+    -- This research is exploring the underlying technology that allows agents to see, hear, speak, and interact with each other. In particular, we are exploring various services through cooperative learning from a robot perspective. <br>
 
 -  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
     ![image description](images//crossmodal.png)
+   -- The main purpose of this study is to develop an efficient dictionary learning model based on Korean language. In particular, various research attempts are being made to create and understand visual language models. The models we developed are KOALA (Text-to-Image) model and LLaVA (Large Language and Vision Assistant) model. <br>
    
 -  ## Development of Model Optimization and Lightweight based on Edge AI Technology <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
    ![image description](images//edge2.png)
+   -- The main purpose of this research is to implement a lightweighting process for AI models. In particular, the challenge was carried out through various studies such as model compression and model pruning. <br>
 
 -  ## Development of Big Data Edge Analytics SW Technology for Load Balancing and Activet Timely Response <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
       ![image description](images//edge1.png)
+   -- In this research, we studied various underlying deep learning models in a big data analytics environment. In particular, we developed an edge cloud framework. <br>
 
 # 📝 Publications 
 
