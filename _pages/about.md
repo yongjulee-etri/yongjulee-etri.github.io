@@ -27,7 +27,8 @@ visual AI agent collaboration. His research interests include Artificial General
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
- - **(2024)** : We have **16 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV). <br>
+ - **(2024)** : We have **17 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 1 NeurIPS). <br>
+ -- **(2024/12)**: One papers accepted to NeurIPS 2024 (Youngwan Lee) <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
  -- **(2024/08)**: One papers accepted to ICML 2024 (Youngwan Lee) <br>
  -- **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
@@ -69,6 +70,11 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 📝 Publications 
 
+-  ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
+    Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang<br>
+   Conference on Neural Information Processing Systems(<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
+   [[paper]](https://openreview.net/forum?id=KNDUBpWV9b)<br>
+   
 -  ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
     Seongwon Lee, **Yong-Ju Lee** <br>
    European Conference on Computer Vision Workshop(<span style="color:darkred">**ECCV**</span>) 2024 <br>
