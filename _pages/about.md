@@ -28,7 +28,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
  - **(2024)** : We have **18 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 2 NeurIPS). <br>
- -- **(2024/12)**: One papers accepted to NeurIPS 2024 (Youngwan Lee) <br>
+ -- **(2024/12)**: Two papers accepted to NeurIPS 2024 (Kwanyong Park, Youngwan Lee) <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
  -- **(2024/08)**: One papers accepted to ICML 2024 (Youngwan Lee) <br>
  -- **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
