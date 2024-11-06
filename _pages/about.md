@@ -138,6 +138,10 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
    
 # 💬 Invited Talks and Promotions
+- **2024.11**, ICT R&D Week 2024
+<iframe width="448" height="252" src="https://www.youtube.com/embed/jK4xIr6eWqc?t=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+
 - **2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI
 <iframe width="448" height="252" src="https://www.youtube.com/embed/4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
