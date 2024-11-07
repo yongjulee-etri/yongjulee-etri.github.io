@@ -153,7 +153,7 @@ visual perception, Crossmodal/Multimodal learning.
 - **2024.04** ETRI WebZine 2024/04
 <iframe width="448" height="252" src="https://www.youtube.com/embed/VgLvF5pBqbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
-<iframe width="100%" height="252" src="https://www.etri.re.kr/webzine/202404/sub02.html" frameborder="0"></iframe>
+<iframe width="100%" height="400" src="https://www.etri.re.kr/webzine/202404/sub02.html" frameborder="0"></iframe>
 <br><br>
 
 - **2024.01** ETRI Generative AI promotion 2024/01
