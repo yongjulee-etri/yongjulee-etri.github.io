@@ -158,7 +158,12 @@ visual perception, Crossmodal/Multimodal learning.
 
 - **2024.01** ETRI Generative AI promotion 2024/01
 <iframe width="448" height="252" src="https://www.youtube.com/embed/oZFSALPGmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
-<br><br>
+<br>
+ ![image description](images//koala-broadcasting.png)
+<br>
+ ![image description](images//koala-newspaper.png)
+<br>
+
 
 - **2023** Agent Collaboration Project Overview 
 <iframe width="448" height="252" src="https://www.youtube.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
