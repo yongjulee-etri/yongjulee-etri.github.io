@@ -19,10 +19,11 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+# https://www.dropbox.com/scl/fi/v44nn30yde096n4z64sua/yongjulee2.png?rlkey=4nd4qr7esdbnf148vfifp0yb3&st=3a36ecre&dl=1
 # Site Author
 author:
   name             : "Yong-Ju Lee"
-  avatar           : "https://www.dropbox.com/scl/fi/v44nn30yde096n4z64sua/yongjulee2.png?rlkey=4nd4qr7esdbnf148vfifp0yb3&st=3a36ecre&dl=1"
+  avatar           : "images/mypicture.png"
   bio              : "Visual Intelligence Lab Leader @ ETRI"
   location         : "Daejeon, South Korea"
   employer         :
