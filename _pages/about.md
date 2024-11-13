@@ -20,10 +20,10 @@ redirect_from:
 **Dr. Yong-Ju Lee is the head of the Visual Intelligence Research Department at the Electronics and Telecommunications
 Research Institute (ETRI)** in South Korea and adjunct professor in Korea National University of Science and Technology.
 He received a Ph.D. in computer engineering from the Chungnam National University(CNU), South Korea. He was a
-visiting scholar at the University of Virginia Tech and planning committee member of the ministry of science and ICT in
+visiting scholar at the University of Virginia Tech and planning committee/RFP member('19~'23:AI,'24: AI Safety R&D, AGI) of the ministry of science and ICT in
 Korea. With a distinguished career in visual intelligence research, Dr. Lee has made significant contributions to the field
-and continues to lead innovative projects that advance multimedia technologies, such as generative visual intelligence and
-visual AI agent collaboration. His research interests include Artificial General Intelligence(AGI), Generative AI, Edge-based model compression, Human-level
+and continues to lead innovative projects that advance multimedia technologies, such as generative visual intelligence(KOALA, Ko-LLaVA) and
+visual AI agent collaboration(CLARA). His research interests include Artificial General Intelligence(AGI), Generative AI, Edge-based model compression, Human-level
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
