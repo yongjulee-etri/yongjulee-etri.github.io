@@ -138,6 +138,10 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
    
 # 💬 Invited Talks and Promotions
+- **2025.01**, Promotional Video for Collaborative Intelligence of Agents   
+<iframe width="448" height="252" src="https://www.youtube.com/embed/n_7n0M_JOec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+
 - **2024.11**, ICT R&D Week 2024
 <iframe width="448" height="252" src="https://www.youtube.com/embed/jK4xIr6eWqc?t=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
