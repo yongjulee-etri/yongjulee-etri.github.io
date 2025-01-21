@@ -73,7 +73,7 @@ visual perception, Crossmodal/Multimodal learning.
 -  ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
     Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang<br>
    Conference on Neural Information Processing Systems(<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
-   [[paper]](https://openreview.net/forum?id=KNDUBpWV9b)<br>
+   [[paper]](https://arxiv.org/pdf/2312.04005), [[demo]](https://huggingface.co/spaces/etri-vilab/KOALA),[[models]](https://huggingface.co/etri-vilab) <br>
 
 -  ## A Multimodal Chain of Tools for Described Object Detection <br>
     Kwanyong Park, Youngwan Lee, **Yong-Ju Lee**<br>
