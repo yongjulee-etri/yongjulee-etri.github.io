@@ -139,7 +139,7 @@ visual perception, Crossmodal/Multimodal learning.
    
 # 💬 Invited Talks and Promotions
 - **2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/OplmKzKVlGk&start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/OplmKzKVlGk?start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <!--
 ![image description](images//PrimeMinisterAward.png)
 -->
