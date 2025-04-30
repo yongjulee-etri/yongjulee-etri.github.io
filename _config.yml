@@ -23,7 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yong-Ju Lee"
-  avatar           : "images/yongjulee2.png", "images/yongjulee2-ghibli.png"
+  avatar           : 
+   - "images/yongjulee2.png"
+   - "images/yongjulee2-ghibli.png"
   bio              : "Visual Intelligence Lab Leader @ ETRI"
   location         : "Daejeon, South Korea"
   employer         :
