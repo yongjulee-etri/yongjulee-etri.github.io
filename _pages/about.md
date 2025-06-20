@@ -136,8 +136,12 @@ visual perception, Crossmodal/Multimodal learning.
    **Yong-Ju Lee**,Hag-Young Kim, Cheol-Hoon Lee <br>
    <span style="color:darkred">**Cluster Computing**</span> 2009<br>
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
-   
+
 # 💬 Invited Talks and Promotions
+- **2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)
+<iframe width="448" height="252" src="https://www.youtube.com/embed/S1BDKGw0ui0?start=553" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+
 - **2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)
 <iframe width="448" height="252" src="https://www.youtube.com/embed/OplmKzKVlGk?start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <!--
@@ -151,6 +155,9 @@ visual perception, Crossmodal/Multimodal learning.
 
 - **2024.11**, ICT R&D Week 2024
 <iframe width="448" height="252" src="https://www.youtube.com/embed/jK4xIr6eWqc?start=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/7uY3OyzQT6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
 
 - **2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI
