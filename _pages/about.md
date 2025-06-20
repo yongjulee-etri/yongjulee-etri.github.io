@@ -139,7 +139,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 💬 Invited Talks and Promotions
 - **2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/S1BDKGw0ui0?start=553" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/me9yApuqz68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
 
 - **2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)
