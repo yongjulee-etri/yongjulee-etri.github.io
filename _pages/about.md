@@ -138,6 +138,10 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
 
 # 💬 Invited Talks and Promotions
+- **2025.07**, 산업안전보건의 달(공공분야 AI 도입사례 및 AI Safety 연구)
+<iframe width="448" height="252" src="https://www.youtube.com/embed/kDdMlhmK1G8?start=3530" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+
 - **2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)
 <iframe width="448" height="252" src="https://www.youtube.com/embed/me9yApuqz68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
