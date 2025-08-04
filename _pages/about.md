@@ -48,7 +48,7 @@ visual perception, Crossmodal/Multimodal learning.
 
   
 # 🎖 Projects
--  ## '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여, '25.08)    [[newspaper]](https://[openreview.net/forum?id=N4i4PfcrK6](https://zdnet.co.kr/view/?no=20250804120134))<br>
+-  ## '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여, '25.08)    [[newspaper]](https://zdnet.co.kr/view/?no=20250804120134))<br>
    ![image description](images//ncai.jpg)
   
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
