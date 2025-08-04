@@ -138,6 +138,9 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
 
 # 💬 Invited Talks and Promotions
+- **2025.08**, '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여)    [[newspaper]](https://[openreview.net/forum?id=N4i4PfcrK6](https://zdnet.co.kr/view/?no=20250804120134))<br>
+   ![image description](images//ncai.jpg)
+  
 - **2025.07**, 산업안전보건의 달(공공분야 AI 도입사례 및 AI Safety 연구)
 <iframe width="448" height="252" src="https://www.youtube.com/embed/kDdMlhmK1G8?start=3547" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br><br>
