@@ -144,6 +144,8 @@ visual perception, Crossmodal/Multimodal learning.
 - **2025.11**, Promotional Video for Safe LLaVA(AI Safety Model)
 <iframe width="448" height="252" src="https://www.youtube.com/embed/VrstdEWcZIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/UrEp-4gtVu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br>
  ![image description](images//safe-llava2.png)
 <br>
 <iframe width="448" height="252" src="https://www.youtube.com/embed/UR763vV-nu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
