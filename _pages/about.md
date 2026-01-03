@@ -27,10 +27,11 @@ visual AI agent collaboration(CLARA). His research interests include Artificial 
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
- - **(2025)** : We have **10 papers** this year(2 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
+ - **(2025)** : We have **11 papers** this year(3 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
  -- **(2025/10)**: Three papers accepted to ICCV Workshop 2024 (Jo Youngjoo, Ilchae Jung, Soojin Jang) <br>
  -- **(2025/10)**: One paper accepted to Computers and Electrical Engineering (Ham Jaeseok) <br>
  -- **(2025/10)**: One paper accepted to ACM MM (Park Minho) <br>
+ -- **(2025/09)**: One paper accepted to MDPI AI (Sanghun Jeon) <br>
  -- **(2025/07)**: Four papers accepted to AVSS 2025 (Kim Daehoe, Oh Seongchan, Yongjin Kwon, Kimin Yun)<br>
  -- **(2025/05)**: One paper accepted to Knowledge-based Systems (Ham Jaeseok) <br><br>
  - **(2024)** : We have **19 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 3 NeurIPS). <br>
