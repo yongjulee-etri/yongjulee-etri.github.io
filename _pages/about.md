@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "" 
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,6 +27,12 @@ visual AI agent collaboration(CLARA). His research interests include Artificial 
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
+ - **(2025)** : We have **10 papers** this year(2 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
+ -- **(2025/10)**: Three papers accepted to ICCV Workshop 2024 (Jo Youngjoo, Ilchae Jung, Soojin Jang) <br>
+ -- **(2025/10)**: One paper accepted to Computers and Electrical Engineering (Ham Jaeseok) <br>
+ -- **(2025/10)**: One paper accepted to ACM MM (Park Minho) <br>
+ -- **(2025/07)**: Four papers accepted to AVSS 2025 (Kim Daehoe, Oh Seongchan, Yongjin Kwon, Kimin Yun)<br>
+ -- **(2025/05)**: One paper accepted to Knowledge-based Systems (Ham Jaeseok) <br><br>
  - **(2024)** : We have **19 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 3 NeurIPS). <br>
  -- **(2024/12)**: Three papers accepted to NeurIPS 2024 (Kwanyong Park, Youngwan Lee, Ham Jaeseok) <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
@@ -72,7 +78,26 @@ visual perception, Crossmodal/Multimodal learning.
    -- In this research, we studied various underlying deep learning models in a big data analytics environment. In particular, we developed an edge cloud framework. <br>
 
 # 📝 Publications 
+-  ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
+  Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
+   arXiv <br>
+   [[paper]](https://arxiv.org/abs/2506.04704) <br>
+   
+-  ## Exploring Pretrained Diffusion Representation for Visual-Language Models <br>
+   Ilchae Jung, Soojin Jang, Youngwan Lee, **Yong-Ju Lee** <br>
+   ICCV 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
+   [[paper]](https://knowledgemr-workshop.github.io/) <br>
+   
+-  ## Enhancing Region-Level Reasoning in Vision-Language Models with Complementary Visual Focus <br>
+   Soojin Jang, Kwanyong Park, Ilchae Jung, **Yong-Ju Lee** <br>
+   ICCV 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
+   [[paper]](https://knowledgemr-workshop.github.io/) <br>
 
+-  ## Dual-Stream Former: A Dual-Branch Transformer Architecture for Visual Speech Recognition <br>
+   Sanghun Jeon, Jieun Lee, **Yong-Ju Lee** <br>
+   MDPI AI Journal <br>
+   [[paper]](https://www.mdpi.com/2673-2688/6/9/222) <br>
+   
 -  ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
     Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang<br>
    Conference on Neural Information Processing Systems(<span style="color:darkred">**NeurIPS**</span>) 2024 <br>
