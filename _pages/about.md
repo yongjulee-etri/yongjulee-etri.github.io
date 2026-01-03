@@ -81,22 +81,22 @@ visual perception, Crossmodal/Multimodal learning.
 # 📝 Publications 
 -  ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
   Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
-   arXiv <br>
+   <span style="color:darkred">**arXiv**</span> <br>
    [[paper]](https://arxiv.org/abs/2506.04704) <br>
    
 -  ## Exploring Pretrained Diffusion Representation for Visual-Language Models <br>
    Ilchae Jung, Soojin Jang, Youngwan Lee, **Yong-Ju Lee** <br>
-   ICCV 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
+   <span style="color:darkred">**ICCV**</span> 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
    [[paper]](https://knowledgemr-workshop.github.io/) <br>
    
 -  ## Enhancing Region-Level Reasoning in Vision-Language Models with Complementary Visual Focus <br>
    Soojin Jang, Kwanyong Park, Ilchae Jung, **Yong-Ju Lee** <br>
-   ICCV 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
+   <span style="color:darkred">**ICCV**</span> 2025 Workshop on "Knowledge-Intensive Multimodal Reasoning" <br>
    [[paper]](https://knowledgemr-workshop.github.io/) <br>
 
 -  ## Dual-Stream Former: A Dual-Branch Transformer Architecture for Visual Speech Recognition <br>
    Sanghun Jeon, Jieun Lee, **Yong-Ju Lee** <br>
-   MDPI AI Journal <br>
+   <span style="color:darkred">**MDPI AI**</span> Journal <br>
    [[paper]](https://www.mdpi.com/2673-2688/6/9/222) <br>
    
 -  ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
