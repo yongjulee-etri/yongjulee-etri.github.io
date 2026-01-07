@@ -55,6 +55,10 @@ visual perception, Crossmodal/Multimodal learning.
 
   
 # 🎖 Projects
+-  ## 과학특화 멀티모달 파운데이션 모델 개발 및 적용 <br>
+    **Yong-Ju Lee (<span style="color:darkred">Co-Investigator, '26~'30</span>)** 
+   ![image description](images//ScientificLMM.png)
+   
 -  ## '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여, '25.08)    [[newspaper]](https://zdnet.co.kr/view/?no=20250804120134)<br>
    ![image description](images//ncai.jpg)
   
