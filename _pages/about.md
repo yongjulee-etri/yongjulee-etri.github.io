@@ -58,6 +58,9 @@ visual perception, Crossmodal/Multimodal learning.
 -  ## 과학특화 멀티모달 파운데이션 모델 개발 및 적용 <br>
     **Yong-Ju Lee (<span style="color:darkred">Co-Investigator, '26~'30</span>)** 
    ![image description](images//ScientificLMM.png)
+   -- We are responsible for the core capabilities of the multimodal foundation model—namely multimodal understanding and generation, as well as agent-based applications—within a science-specialized multimodal foundation model project. <br>
+   -- In particular, we are conducting international collaborative research with Professor Yongjae Lee at the University of Wisconsin–Madison and Professor Jaehong Yoon at Nanyang Technological University, Singapore. <br>
+
    
 -  ## '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여, '25.08)    [[newspaper]](https://zdnet.co.kr/view/?no=20250804120134)<br>
    ![image description](images//ncai.jpg)
