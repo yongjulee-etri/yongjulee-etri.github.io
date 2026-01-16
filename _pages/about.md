@@ -56,10 +56,11 @@ visual perception, Crossmodal/Multimodal learning.
   
 # 🎖 Projects
 -  ## 과학특화 멀티모달 파운데이션 모델 개발 및 적용 <br>
-    **Yong-Ju Lee (<span style="color:darkred">Co-Investigator, '26~'30</span>)** 
-   ![image description](images//ScientificLMM.png)
-   -- We are responsible for the core capabilities of the multimodal foundation model—namely multimodal understanding and generation, as well as agent-based applications—within a science-specialized multimodal foundation model project. <br>
-   -- In particular, we are conducting international collaborative research with Professor Yongjae Lee at the University of Wisconsin–Madison and Professor Jaehong Yoon at Nanyang Technological University, Singapore. <br>
+    **Yong-Ju Lee (<span style="color:darkred">Co-Investigator, '26~'30</span>)**
+    -- We are responsible for the core capabilities of the multimodal foundation model—namely multimodal understanding and generation, as well as agent-based applications—within a science-specialized multimodal foundation model project. <br>
+    -- In particular, we are conducting international collaborative research with Professor Yongjae Lee at the University of Wisconsin–Madison and Professor Jaehong Yoon at Nanyang Technological University, Singapore. <br>
+   ![image description](images//ScientificLMM.png) <br>
+ 
 
 <!--   
 -  ## '독자 AI 파운데이션 모델' 프로젝트 선정(NC AI 컨소시엄 참여, '25.08)    [[newspaper]](https://zdnet.co.kr/view/?no=20250804120134)<br>
@@ -67,23 +68,23 @@ visual perception, Crossmodal/Multimodal learning.
 -->  
 -  ## Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'26</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/clara/)<br>
-    ![image description](images//clara-motivation.png)
     -- This research is exploring the underlying technology that allows agents to see, hear, speak, and interact with each other. In particular, we are exploring various services through cooperative learning from a robot perspective. <br>
+    ![image description](images//clara-motivation.png)  <br>
 
 -  ## Development of Large Korean Language Model Technology for Efficient Pre-training <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '22~'25</span>)**  [[Homepage]](https://etri-visualintelligence.github.io/crossmodal/)<br>
-    ![image description](images//crossmodal-motivation.png)
-   -- The main purpose of this study is to develop an efficient dictionary learning model based on Korean language. In particular, various research attempts are being made to create and understand visual language models. The models we developed are KOALA (Text-to-Image) model and LLaVA (Large Language and Vision Assistant) model. <br>
+    -- The main purpose of this study is to develop an efficient dictionary learning model based on Korean language. In particular, various research attempts are being made to create and understand visual language models. The models we developed are KOALA (Text-to-Image) model and LLaVA (Large Language and Vision Assistant) model. <br>
+    ![image description](images//crossmodal-motivation.png)  <br>
    
 -  ## Development of Model Optimization and Lightweight based on Edge AI Technology <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '20</span>)** [[Homepage]](https://etri-visualintelligence.github.io/edge/)<br>
-   ![image description](images//edgeai-motivation.png)
-   -- The main purpose of this research is to implement a lightweighting process for AI models. In particular, the challenge was carried out through various studies such as model compression and model pruning. <br>
+    -- The main purpose of this research is to implement a lightweighting process for AI models. In particular, the challenge was carried out through various studies such as model compression and model pruning. <br>
+   ![image description](images//edgeai-motivation.png)  <br>
 
 -  ## Development of Big Data Edge Analytics SW Technology for Load Balancing and Activet Timely Response <br>
     **Yong-Ju Lee (<span style="color:darkred">Project Investigator, '18~'20</span>)** [[Homepage]](https://etri-edgeanalytics.github.io/docs/)<br>
-      ![image description](images//edge-analytics-motivation.png)
-   -- In this research, we studied various underlying deep learning models in a big data analytics environment. In particular, we developed an edge cloud framework. <br>
+    -- In this research, we studied various underlying deep learning models in a big data analytics environment. In particular, we developed an edge cloud framework. <br>
+      ![image description](images//edge-analytics-motivation.png) <br>
 
 # 📝 Publications 
 -  ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
