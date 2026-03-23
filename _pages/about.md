@@ -89,8 +89,13 @@ visual perception, Crossmodal/Multimodal learning.
 # 📝 Publications 
 -  ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
   Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
-   <span style="color:darkred">**arXiv**</span> <br>
+   <span style="color:darkred">**CVPR Findings**</span> 2026 <br>
    [[paper]](https://arxiv.org/abs/2506.04704) <br>
+
+-  ## Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks <br>
+    MinHyuk Kim, JooHee Park, Kwanyong Park, **Yong-Ju Lee**, Sanghun Jeon <br>
+   <span style="color:darkred">**MDPI SENSORS**</span> Journal <br>
+   [[paper]](https://www.mdpi.com/1424-8220/26/6/1978) <br>
    
 -  ## Exploring Pretrained Diffusion Representation for Visual-Language Models <br>
    Ilchae Jung, Soojin Jang, Youngwan Lee, **Yong-Ju Lee** <br>
