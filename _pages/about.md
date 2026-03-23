@@ -94,7 +94,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 -  ## Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks <br>
     MinHyuk Kim, JooHee Park, Kwanyong Park, **Yong-Ju Lee**, Sanghun Jeon <br>
-   <span style="color:darkred">**MDPI SENSORS**</span> Journal <br>
+   <span style="color:darkred">**MDPI SENSORS**</span> Journal 2026 <br>
    [[paper]](https://www.mdpi.com/1424-8220/26/6/1978) <br>
    
 -  ## Exploring Pretrained Diffusion Representation for Visual-Language Models <br>
@@ -109,7 +109,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 -  ## Dual-Stream Former: A Dual-Branch Transformer Architecture for Visual Speech Recognition <br>
    Sanghun Jeon, Jieun Lee, **Yong-Ju Lee** <br>
-   <span style="color:darkred">**MDPI AI**</span> Journal <br>
+   <span style="color:darkred">**MDPI AI**</span> Journal 2025 <br>
    [[paper]](https://www.mdpi.com/2673-2688/6/9/222) <br>
    
 -  ## KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis <br>
