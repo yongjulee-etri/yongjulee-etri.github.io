@@ -87,10 +87,15 @@ visual perception, Crossmodal/Multimodal learning.
       ![image description](images//edge-analytics-motivation.png) <br>
 
 # 📝 Publications 
+-  ## Can VLMs Handle Multi-hop Compositional Spatial Reasoning? <br>
+  Youngwan Lee, Soojin Jang, Yoorhim Cho, Seunghwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
+   <span style="color:darkred">**CVPR Workshop(Multimodal Spatial Intelligence)**</span> 2026 <br>
+   [[paper]](https://openreview.net/pdf?id=Ecc9KSo1bL) <br>
+   
 -  ## HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model <br>
   Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
    <span style="color:darkred">**CVPR Findings**</span> 2026 <br>
-   [[paper]](https://arxiv.org/abs/2506.04704) <br>
+   [[project page]](https://youngwanlee.github.io/holisafe/) [[paper]](https://arxiv.org/abs/2506.04704) [[demo]](https://huggingface.co/spaces/etri-vilab/Safe-VLM)  <br>
 
 -  ## Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks <br>
     MinHyuk Kim, JooHee Park, Kwanyong Park, **Yong-Ju Lee**, Sanghun Jeon <br>
@@ -137,7 +142,7 @@ visual perception, Crossmodal/Multimodal learning.
 -  ## KOALA: Fast and Memory-Efficient Latent Diffusion Models via Self-Attention Distillation <br>
     Youngwan Lee, Kwanyong Park, Yoorhim Cho, **Yong-Ju Lee**, Sung Ju Hwang <br>
    IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop(<span style="color:darkred">**CVPR**</span>) 2024 <br>
-    [[Project page]](https://huggingface.co/spaces/etri-vilab/KOALA)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
+    [[project page]](https://huggingface.co/spaces/etri-vilab/KOALA)[[paper]](https://arxiv.org/abs/2312.04005)[[code]](https://github.com/youngwanLEE/sdxl-koala)<br>
 
 -  ## Multimodal AudioVisual Speech Recognition Architecture Using a Three-Feature Multi Fusion Method for Noise-Robust Systems <br>
     Sanghun Jeon, Jieun Lee, Dohyeon Yeo, **Yong-Ju Lee**, SeungJun Kim <br>
