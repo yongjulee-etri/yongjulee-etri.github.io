@@ -188,6 +188,7 @@ visual perception, Crossmodal/Multimodal learning.
 - **2026.04**, Awarded the IITP President’s Award at the ICT R&D Technology Commercialization Festival (ICT R&D 기술사업화 페스티벌 IITP 원장상)
  ![image description](images//iitp_2026.png)
   <br><br>
+  
 - **2025.11**, Promotional Video for Safe LLaVA(AI Safety Model)
 <iframe width="448" height="252" src="https://www.youtube.com/embed/VrstdEWcZIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
 <br>
