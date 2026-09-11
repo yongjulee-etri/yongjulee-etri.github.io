@@ -87,6 +87,11 @@ visual perception, Crossmodal/Multimodal learning.
       ![image description](images//edge-analytics-motivation.png) <br>
 
 # 📝 Publications 
+-  ## MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model <br>
+  Youngwan Lee, Soojin Jang, Yoorhim Cho, Seunghwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
+   <span style="color:darkred">**ECCV Conference on Computer Vision(ECCV)**</span> 2026 <br>
+   [[project page]]([https://youngwanlee.github.io/holisafe/](https://youngwanlee.github.io/multihopspatial/)) [[paper]]([https://openreview.net/pdf?id=Ecc9KSo1bL](https://arxiv.org/abs/2603.18892)) [[dataset]]([[https://openreview.net/pdf?id=Ecc9KSo1bL](https://huggingface.co/datasets/etri-vilab/MultihopSpatial)](https://arxiv.org/abs/2603.18892)) <br>
+   
 -  ## Can VLMs Handle Multi-hop Compositional Spatial Reasoning? <br>
   Youngwan Lee, Soojin Jang, Yoorhim Cho, Seunghwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
    <span style="color:darkred">**CVPR Workshop(Multimodal Spatial Intelligence)**</span> 2026 <br>
