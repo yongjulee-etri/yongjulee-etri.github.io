@@ -55,7 +55,7 @@ visual perception, Crossmodal/Multimodal learning.
 
   
 # 🎖 Projects
--  ## 과학특화 멀티모달 파운데이션 모델 개발 및 적용 <br>
+-  ## Development and Application of Science-Specialized Multimodal Foundation Model. <br>
     **Yong-Ju Lee (<span style="color:darkred">Co-Investigator, '26~'30</span>)** <br>
     -- We are responsible for the core capabilities of the multimodal foundation model—namely multimodal understanding and generation, as well as agent-based applications—within a science-specialized multimodal foundation model project. <br>
     -- In particular, we are conducting international collaborative research with Professor Yongjae Lee at the University of Wisconsin–Madison. <br>
@@ -90,12 +90,12 @@ visual perception, Crossmodal/Multimodal learning.
 -  ## CoVLA: Vision-Language Alignment with Fewer Vision Tokens <br>
   Junyong Park, **Yong-Ju Lee**, Daeyoung Kim <br>
    Conference on Language Modeling(<span style="color:darkred">**COLM**</span>) 2026 <br>
-   [[paper]]([https://openreview.net/pdf?id=Ecc9KSo1bL](https://openreview.net/forum?id=43YwlbjB59)) <br>
+   [[paper]](https://openreview.net/forum?id=43YwlbjB59) <br>
    
 -  ## MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model <br>
   Youngwan Lee, Soojin Jang, Yoorhim Cho, Seunghwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
    ECCV Conference on Computer Vision(<span style="color:darkred">**ECCV**</span>) 2026 <br>
-   [[project page]]([https://youngwanlee.github.io/holisafe/](https://youngwanlee.github.io/multihopspatial/)) [[paper]]([https://openreview.net/pdf?id=Ecc9KSo1bL](https://arxiv.org/abs/2603.18892)) [[dataset]]([[https://openreview.net/pdf?id=Ecc9KSo1bL](https://huggingface.co/datasets/etri-vilab/MultihopSpatial)](https://arxiv.org/abs/2603.18892)) <br>
+   [[project page]](https://youngwanlee.github.io/multihopspatial/) [[paper]](https://arxiv.org/abs/2603.18892) [[dataset]](https://huggingface.co/datasets/etri-vilab/MultihopSpatial) <br>
    
 -  ## Can VLMs Handle Multi-hop Compositional Spatial Reasoning? <br>
   Youngwan Lee, Soojin Jang, Yoorhim Cho, Seunghwan Lee, **Yong-Ju Lee**, Sung Ju Hwang <br>
