@@ -195,6 +195,10 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
 
 # 💬 Invited Talks and Promotions
+- **2026.09**, Promotional Video for ETRI AI History and AI Scientist
+<iframe width="448" height="252" src="https://www.youtube.com/embed/9p63gwTrm9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<br><br>
+  
 - **2026.04**, Awarded the IITP President’s Award at the ICT R&D Technology Commercialization Festival (ICT R&D 기술사업화 페스티벌 IITP 원장상)
  ![image description](images//iitp_2026.png)
   <br><br>
