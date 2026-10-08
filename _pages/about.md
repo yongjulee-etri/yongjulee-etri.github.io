@@ -27,6 +27,14 @@ visual AI agent collaboration(CLARA). His research interests include Artificial 
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
+ - **(2026)** : We have **13 papers** this year(2 SCI-E, 1 CVPR, 1 ACL, 4 ECCV, 1 AVSS, 1 CoLM, 2 NeuriPS). <br>
+ -- **(2026/12)**: Three papers accepted to ETRI J.(Yu-Hyun Shin,Yongjin Bae,Jihyeon Roh) <br>
+ -- **(2026/12)**: Two papers accepted to NeurIPS(Youngwan Lee,Han Donghyun) <br>
+ -- **(2026/10)**: One paper accepted to CoLM (Junyong Park) <br>
+ -- **(2026/09)**: One paper accepted to AVSS (Park, Gyubaek) <br>
+ -- **(2025/09)**: Four papers accepted to ECCV(Kim Gahyeon,Ham Jaeseok,Youngwan Lee,Kim Jong Hee)<br>
+ -- **(2026/07)**: One paper accepted to ACL Findings (Youngwan Lee) <br>
+ -- **(2026/05)**: One paper accepted to CVPR Findings (Youngwan Lee) <br>
  - **(2025)** : We have **11 papers** this year(3 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
  -- **(2025/10)**: Three papers accepted to ICCV Workshop 2024 (Jo Youngjoo, Ilchae Jung, Soojin Jang) <br>
  -- **(2025/10)**: One paper accepted to Computers and Electrical Engineering (Ham Jaeseok) <br>
@@ -196,65 +204,65 @@ visual perception, Crossmodal/Multimodal learning.
 
 # 💬 Invited Talks and Promotions
 - **2026.09**, Promotional Video for ETRI AI History and AI Scientist
-<iframe width="448" height="252" src="https://www.youtube.com/embed/9p63gwTrm9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/9p63gwTrm9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
-  
+
 - **2026.04**, Awarded the IITP President’s Award at the ICT R&D Technology Commercialization Festival (ICT R&D 기술사업화 페스티벌 IITP 원장상)
  ![image description](images//iitp_2026.png)
   <br><br>
   
 - **2025.11**, Promotional Video for Safe LLaVA(AI Safety Model)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/VrstdEWcZIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/VrstdEWcZIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
-<iframe width="448" height="252" src="https://www.youtube.com/embed/UrEp-4gtVu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/UrEp-4gtVu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
  ![image description](images//safe-llava2.png)
 <br>
-<iframe width="448" height="252" src="https://www.youtube.com/embed/UR763vV-nu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/UR763vV-nu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2025.07**, 산업안전보건의 달(공공분야 AI 도입사례 및 AI Safety 연구)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/kDdMlhmK1G8?start=3547" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/kDdMlhmK1G8?start=3547" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/me9yApuqz68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/me9yApuqz68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)
-<iframe width="448" height="252" src="https://www.youtube.com/embed/OplmKzKVlGk?start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/OplmKzKVlGk?start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <!--
 ![image description](images//PrimeMinisterAward.png)
 -->
 <br><br>
 
 - **2025.01**, Promotional Video for Collaborative Intelligence of Agents   
-<iframe width="448" height="252" src="https://www.youtube.com/embed/n_7n0M_JOec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/n_7n0M_JOec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2024.11**, ICT R&D Week 2024
-<iframe width="448" height="252" src="https://www.youtube.com/embed/jK4xIr6eWqc?start=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/jK4xIr6eWqc?start=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/7uY3OyzQT6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/7uY3OyzQT6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI
-<iframe width="448" height="252" src="https://www.youtube.com/embed/4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2024.06**, Genertive Visual Intelligence in ETRI AI Conference 2024
-<iframe width="448" height="252" src="https://www.youtube.com/embed/hQmy7vJVNEE?start=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/hQmy7vJVNEE?start=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 - **2024.04** ETRI WebZine 2024/04
-<iframe width="448" height="252" src="https://www.youtube.com/embed/VgLvF5pBqbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/VgLvF5pBqbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
 <iframe width="100%" height="400" src="https://www.etri.re.kr/webzine/202404/sub02.html" frameborder="0"></iframe>
 <br><br>
 
 - **2024.01** ETRI Generative AI promotion 2024/01
-<iframe width="448" height="252" src="https://www.youtube.com/embed/oZFSALPGmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/oZFSALPGmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
  ![image description](images//koala-broadcasting.png)
 <br>
@@ -263,7 +271,7 @@ visual perception, Crossmodal/Multimodal learning.
 
 
 - **2023** Agent Collaboration Project Overview 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
 
 - **Contact** Yong-Ju Lee (yongju@etri.re.kr)

@@ -67,7 +67,16 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.02rem;
+    line-height: 1.7;
+    max-width: 65ch;
+  }
+
+  @media (max-width: 600px) {
+    p, li, dl {
+      font-size: 0.98rem;
+      line-height: 1.75;
+    }
   }
 
   /* paragraph indents */
