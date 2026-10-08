@@ -27,7 +27,7 @@ visual AI agent collaboration(CLARA). His research interests include Artificial 
 visual perception, Crossmodal/Multimodal learning.
 
 # 🎉 Visual Intelligence Lab  [[Homepage]](https://etri-visualintelligence.github.io/) <br>
- - **(2026)** : We have **13 papers** this year(2 SCI-E, 1 CVPR, 1 ACL, 4 ECCV, 1 AVSS, 1 CoLM, 2 NeuriPS). <br>
+ - <span class="item-title">**(2026)** : We have **13 papers** this year(2 SCI-E, 1 CVPR, 1 ACL, 4 ECCV, 1 AVSS, 1 CoLM, 2 NeuriPS).</span> <br>
  -- **(2026/12)**: Three papers accepted to ETRI J.(Yu-Hyun Shin,Yongjin Bae,Jihyeon Roh) <br>
  -- **(2026/12)**: Two papers accepted to NeurIPS(Youngwan Lee,Han Donghyun) <br>
  -- **(2026/10)**: One paper accepted to CoLM (Junyong Park) <br>
@@ -35,27 +35,27 @@ visual perception, Crossmodal/Multimodal learning.
  -- **(2026/09)**: Four papers accepted to ECCV(Kim Gahyeon,Ham Jaeseok,Youngwan Lee,Kim Jong Hee)<br>
  -- **(2026/07)**: One paper accepted to ACL Findings (Youngwan Lee) <br>
  -- **(2026/05)**: One paper accepted to CVPR Findings (Youngwan Lee) <br>
- - **(2025)** : We have **11 papers** this year(3 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
+ - <span class="item-title">**(2025)** : We have **11 papers** this year(3 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS).</span> <br>
  -- **(2025/10)**: Three papers accepted to ICCV Workshop 2024 (Jo Youngjoo, Ilchae Jung, Soojin Jang) <br>
  -- **(2025/10)**: One paper accepted to Computers and Electrical Engineering (Ham Jaeseok) <br>
  -- **(2025/10)**: One paper accepted to ACM MM (Park Minho) <br>
  -- **(2025/09)**: One paper accepted to MDPI AI (Sanghun Jeon) <br>
  -- **(2025/07)**: Four papers accepted to AVSS 2025 (Kim Daehoe, Oh Seongchan, Yongjin Kwon, Kimin Yun)<br>
  -- **(2025/05)**: One paper accepted to Knowledge-based Systems (Ham Jaeseok) <br>
- - **(2024)** : We have **19 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 3 NeurIPS). <br>
+ - <span class="item-title">**(2024)** : We have **19 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 3 NeurIPS).</span> <br>
  -- **(2024/12)**: Three papers accepted to NeurIPS 2024 (Kwanyong Park, Youngwan Lee, Ham Jaeseok) <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
  -- **(2024/08)**: One paper accepted to ICML 2024 (Youngwan Lee) <br>
  -- **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
  -- **(2024/06)**: Five papers accepted to CVPR 2024 (Kwanyong Park, Youngwan Lee, Bae Kangmin, Jo Youngjoo) <br>
  -- **(2024/02)**: Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br>
- - **(2023)** : We have **9 papers** this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.). <br>
+ - <span class="item-title">**(2023)** : We have **9 papers** this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.).</span> <br>
  -- **(2023/12)**: One paper accepted to NeurIPS 2023 (Youngwan Lee) <br>
  -- **(2023/10)**: One paper accepted to ICCV 2023 (Park Minho), One paper accepted to ETRI J. (Yun Kimin)<br>
  -- **(2023/06)**: Four papers accepted to CVPR 2023 (Kim Jonghee, Ham Jaeseok, Seol Mooah, Bae Kangmin) <br>
  -- **(2023/05)**: One paper accepted to ICLR 2023 (Youngwan Lee)<br>
  -- **(2023/02)**: One paper accepted to AAAI 2023 (Jongryul Lee) <br>
- - **(2022)** : We have **6 papers** this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC). <br>
+ - <span class="item-title">**(2022)** : We have **6 papers** this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC).</span> <br>
  -- **(2022/11)**: One paper accepted to BMVC 2022  (Jongryul Lee) <br>
  -- **(2022/10)**: Two papers accepted to ECCV 2022 (Ham Jaeseok, Youngwan Lee)<br>
  -- **(2022/06)**: Two papers accepted to CVPR 2022 (Youngwan Lee, Moon Jinyoung)<br>
@@ -203,15 +203,15 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
 
 # 💬 Invited Talks and Promotions
-- **2026.09**, Promotional Video for ETRI AI History and AI Scientist
+- <span class="item-title">**2026.09**, Promotional Video for ETRI AI History and AI Scientist</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/9p63gwTrm9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2026.04**, Awarded the IITP President’s Award at the ICT R&D Technology Commercialization Festival (ICT R&D 기술사업화 페스티벌 IITP 원장상)
+- <span class="item-title">**2026.04**, Awarded the IITP President’s Award at the ICT R&D Technology Commercialization Festival (ICT R&D 기술사업화 페스티벌 IITP 원장상)</span>
  ![image description](images//iitp_2026.png)
   <br><br>
   
-- **2025.11**, Promotional Video for Safe LLaVA(AI Safety Model)
+- <span class="item-title">**2025.11**, Promotional Video for Safe LLaVA(AI Safety Model)</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/VrstdEWcZIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/UrEp-4gtVu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
@@ -221,47 +221,47 @@ visual perception, Crossmodal/Multimodal learning.
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/UR763vV-nu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2025.07**, 산업안전보건의 달(공공분야 AI 도입사례 및 AI Safety 연구)
+- <span class="item-title">**2025.07**, 산업안전보건의 달(공공분야 AI 도입사례 및 AI Safety 연구)</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/kDdMlhmK1G8?start=3547" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)
+- <span class="item-title">**2025.06**, TJB 대덕의 도전자들 (한국전자통신연구원)</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/me9yApuqz68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)
+- <span class="item-title">**2025.04**, Awarded the Prime Minister’s Commendation in celebration of the 2025 Science, Technology, Information and Communication Day(2025년 과학기술정보통신의날 국무총리표창)</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/OplmKzKVlGk?start=4863" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <!--
 ![image description](images//PrimeMinisterAward.png)
 -->
 <br><br>
 
-- **2025.01**, Promotional Video for Collaborative Intelligence of Agents   
+- <span class="item-title">**2025.01**, Promotional Video for Collaborative Intelligence of Agents</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/n_7n0M_JOec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2024.11**, ICT R&D Week 2024
+- <span class="item-title">**2024.11**, ICT R&D Week 2024</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/jK4xIr6eWqc?start=8919" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/7uY3OyzQT6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI
+- <span class="item-title">**2024.09**, Agent Collaboration Intelligence(CLARA-ROBOT) in ETRI</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/4DJ-0Z70E0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2024.06**, Genertive Visual Intelligence in ETRI AI Conference 2024
+- <span class="item-title">**2024.06**, Genertive Visual Intelligence in ETRI AI Conference 2024</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/hQmy7vJVNEE?start=13880" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
 
-- **2024.04** ETRI WebZine 2024/04
+- <span class="item-title">**2024.04** ETRI WebZine 2024/04</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/VgLvF5pBqbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
 <iframe width="100%" height="400" src="https://www.etri.re.kr/webzine/202404/sub02.html" frameborder="0"></iframe>
 <br><br>
 
-- **2024.01** ETRI Generative AI promotion 2024/01
+- <span class="item-title">**2024.01** ETRI Generative AI promotion 2024/01</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/oZFSALPGmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
  ![image description](images//koala-broadcasting.png)
@@ -270,7 +270,7 @@ visual perception, Crossmodal/Multimodal learning.
 <br>
 
 
-- **2023** Agent Collaboration Project Overview 
+- <span class="item-title">**2023** Agent Collaboration Project Overview</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/kdz_EpIPEt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br>
 

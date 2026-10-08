@@ -78,6 +78,15 @@
     }
   }
 
+  /* list item headline sized like the h2 project titles */
+  .item-title {
+    font-family: $header-font-family;
+    font-size: $type-size-4;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
