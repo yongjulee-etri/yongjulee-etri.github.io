@@ -32,7 +32,7 @@ visual perception, Crossmodal/Multimodal learning.
  -- **(2026/12)**: Two papers accepted to NeurIPS(Youngwan Lee,Han Donghyun) <br>
  -- **(2026/10)**: One paper accepted to CoLM (Junyong Park) <br>
  -- **(2026/09)**: One paper accepted to AVSS (Park, Gyubaek) <br>
- -- **(2025/09)**: Four papers accepted to ECCV(Kim Gahyeon,Ham Jaeseok,Youngwan Lee,Kim Jong Hee)<br>
+ -- **(2026/09)**: Four papers accepted to ECCV(Kim Gahyeon,Ham Jaeseok,Youngwan Lee,Kim Jong Hee)<br>
  -- **(2026/07)**: One paper accepted to ACL Findings (Youngwan Lee) <br>
  -- **(2026/05)**: One paper accepted to CVPR Findings (Youngwan Lee) <br>
  - **(2025)** : We have **11 papers** this year(3 SCI-E, 2 ICCV, 1 ACM MM, 4 AVSS). <br>
