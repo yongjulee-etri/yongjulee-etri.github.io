@@ -41,20 +41,20 @@ visual perception, Crossmodal/Multimodal learning.
  -- **(2025/10)**: One paper accepted to ACM MM (Park Minho) <br>
  -- **(2025/09)**: One paper accepted to MDPI AI (Sanghun Jeon) <br>
  -- **(2025/07)**: Four papers accepted to AVSS 2025 (Kim Daehoe, Oh Seongchan, Yongjin Kwon, Kimin Yun)<br>
- -- **(2025/05)**: One paper accepted to Knowledge-based Systems (Ham Jaeseok) <br><br>
+ -- **(2025/05)**: One paper accepted to Knowledge-based Systems (Ham Jaeseok) <br>
  - **(2024)** : We have **19 papers** this year(2 ETRI J., 5 CVPR, 2 AVSS, 1 ICML, 6 ECCV, 3 NeurIPS). <br>
  -- **(2024/12)**: Three papers accepted to NeurIPS 2024 (Kwanyong Park, Youngwan Lee, Ham Jaeseok) <br>
  -- **(2024/09)**: Six papers accepted to ECCV 2024 (Youngwan Lee, Kwanyong Park, Lee Seongwon, Min jinyoung, Ham Jaeseok, Kim Hyungil) <br>
  -- **(2024/08)**: One paper accepted to ICML 2024 (Youngwan Lee) <br>
  -- **(2024/07)**: Two papers accepted to AVSS 2024 (Kim Daehoe, Oh Seongchan)<br>
  -- **(2024/06)**: Five papers accepted to CVPR 2024 (Kwanyong Park, Youngwan Lee, Bae Kangmin, Jo Youngjoo) <br>
- -- **(2024/02)**: Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br><br>
+ -- **(2024/02)**: Two papers accepted to ETRI J. (Jeong Junyoung, Jeon Sanghun) <br>
  - **(2023)** : We have **9 papers** this year(1 AAAI, 1 ICLR, 4 CVPR, 1 ICCV, 1 NeurIPS, 1 ETRI J.). <br>
  -- **(2023/12)**: One paper accepted to NeurIPS 2023 (Youngwan Lee) <br>
  -- **(2023/10)**: One paper accepted to ICCV 2023 (Park Minho), One paper accepted to ETRI J. (Yun Kimin)<br>
  -- **(2023/06)**: Four papers accepted to CVPR 2023 (Kim Jonghee, Ham Jaeseok, Seol Mooah, Bae Kangmin) <br>
  -- **(2023/05)**: One paper accepted to ICLR 2023 (Youngwan Lee)<br>
- -- **(2023/02)**: One paper accepted to AAAI 2023 (Jongryul Lee) <br><br>
+ -- **(2023/02)**: One paper accepted to AAAI 2023 (Jongryul Lee) <br>
  - **(2022)** : We have **6 papers** this year(1 ETRI J., 2 CVPR, 2 ECCV, 1 BMVC). <br>
  -- **(2022/11)**: One paper accepted to BMVC 2022  (Jongryul Lee) <br>
  -- **(2022/10)**: Two papers accepted to ECCV 2022 (Ham Jaeseok, Youngwan Lee)<br>
