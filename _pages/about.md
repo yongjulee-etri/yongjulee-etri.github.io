@@ -203,6 +203,10 @@ visual perception, Crossmodal/Multimodal learning.
    [[paper]](https://link.springer.com/article/10.1007/s10586-009-0097-8)<br>
 
 # 💬 Invited Talks and Promotions
+- <span class="item-title">**2026.11**, Conceptual Video for ETRI AI Co-Scientist (feat. AGIOS)</span>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/AOT92U3tnm8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<br><br>
+
 - <span class="item-title">**2026.11**, VLA Demonstration Video (ETRI-KMU Joint Work)</span>
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/A151tGdEA6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 <br><br>
